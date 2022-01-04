@@ -1,7 +1,7 @@
 ﻿using System;
 namespace HelloWorld
 {
-    class UC5_CalculateWagesFor20DaysInMonth
+    class CalculateWagesFor20DaysInMonth
     {
         //Constants
         public const int IS_PART_TIME = 1;
