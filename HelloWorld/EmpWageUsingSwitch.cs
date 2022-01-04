@@ -1,7 +1,7 @@
 ﻿using System;
 namespace HelloWorld
 {
-    class UC4_EmpWageUsingSwitch
+    class EmpWageUsingSwitch
     {
 
         //const, readonly
