@@ -1,7 +1,7 @@
 ﻿using System;
 namespace HelloWorld
 {
-    class UC6_CalculateWageTill100HrsOr20IsReached
+    class CalculateWageTill100HrsOr20IsReached
     {
         //Constants
         public const int IS_PART_TIME = 1;
