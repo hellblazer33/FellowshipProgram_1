@@ -1,7 +1,7 @@
 ﻿using System;
 namespace HelloWorld
 {
-	public class UC1_EmployeeAttendance
+	public class EmployeeAttendance
 	{
 		
             public static void GetAttendance()
