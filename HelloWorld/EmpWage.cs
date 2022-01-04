@@ -1,7 +1,7 @@
 ﻿using System;
 namespace HelloWorld
 {
-	public class UC2_EmpWage
+	public class EmpWage
 	{
         public static void EmpWage()
         {
