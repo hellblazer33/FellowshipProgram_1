@@ -7,4 +7,14 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="UC9\" />
+    <None Remove="UC10\" />
+    <None Remove="UCLast Final Solution\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="UC9\" />
+    <Folder Include="UC10\" />
+    <Folder Include="UCLast Final Solution\" />
+  </ItemGroup>
 </Project>
