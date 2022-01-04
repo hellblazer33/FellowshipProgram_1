@@ -28,11 +28,11 @@ using HelloWorld.UCLastFinalSolution;
 //empWageBuilder.computeEmpWage();
 //#endregion
 
-#region FinalSolution
-EmpWageBuilder empWageBuild = new EmpWageBuilder();
-empWageBuild.addCompanyEmpWage("DMart", 20, 2, 10);
-empWageBuild.addCompanyEmpWage("Reliance", 10, 4, 20);
-empWageBuild.computeEmpWage();
-#endregion
+//#region FinalSolution
+//EmpWageBuilder empWageBuild = new EmpWageBuilder();
+//empWageBuild.addCompanyEmpWage("DMart", 20, 2, 10);
+//empWageBuild.addCompanyEmpWage("Reliance", 10, 4, 20);
+//empWageBuild.computeEmpWage();
+//#endregion
 
 Console.ReadKey();
