@@ -4,13 +4,13 @@ using HelloWorld.UC9;
 using HelloWorld.UCLastFinalSolution;
 
 //Console.WriteLine("Hello, World!");
-//UC1_EmployeeAttendance.GetAttendance();
-//UC2_EmpWage.EmpWage();
-//UC3_PartTimeEmpWage.PartTimeEmpWage();
-//UC4_EmpWageUsingSwitch.EmpWageUsingSwitch();
+//EmployeeAttendance.GetAttendance();
+//EmpWage.EmpWage();
+//PartTimeEmpWage.PartTimeEmpWage();
+//EmpWageUsingSwitch.EmpWageUsingSwitch();
 
-//UC1_EmployeeAttendance.GetAttendance();
-////UC2_EmpWage.EmpWage();
+//EmployeeAttendance.GetAttendance();
+////EmpWage.EmpWage();
 
 //#region UC9
 //EmpWageBuilderObject dMart = new EmpWageBuilderObject("DMart", 20, 2, 10);
