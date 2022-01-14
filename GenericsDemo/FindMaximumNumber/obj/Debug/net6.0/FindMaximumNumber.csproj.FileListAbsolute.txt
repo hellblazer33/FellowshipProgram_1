@@ -1,0 +1,15 @@
+C:\Users\pk110\source\repos\GenericsDemo\FindMaximumNumber\bin\Debug\net6.0\FindMaximumNumber.exe
+C:\Users\pk110\source\repos\GenericsDemo\FindMaximumNumber\bin\Debug\net6.0\FindMaximumNumber.deps.json
+C:\Users\pk110\source\repos\GenericsDemo\FindMaximumNumber\bin\Debug\net6.0\FindMaximumNumber.runtimeconfig.json
+C:\Users\pk110\source\repos\GenericsDemo\FindMaximumNumber\bin\Debug\net6.0\FindMaximumNumber.dll
+C:\Users\pk110\source\repos\GenericsDemo\FindMaximumNumber\bin\Debug\net6.0\ref\FindMaximumNumber.dll
+C:\Users\pk110\source\repos\GenericsDemo\FindMaximumNumber\bin\Debug\net6.0\FindMaximumNumber.pdb
+C:\Users\pk110\source\repos\GenericsDemo\FindMaximumNumber\obj\Debug\net6.0\FindMaximumNumber.csproj.AssemblyReference.cache
+C:\Users\pk110\source\repos\GenericsDemo\FindMaximumNumber\obj\Debug\net6.0\FindMaximumNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pk110\source\repos\GenericsDemo\FindMaximumNumber\obj\Debug\net6.0\FindMaximumNumber.AssemblyInfoInputs.cache
+C:\Users\pk110\source\repos\GenericsDemo\FindMaximumNumber\obj\Debug\net6.0\FindMaximumNumber.AssemblyInfo.cs
+C:\Users\pk110\source\repos\GenericsDemo\FindMaximumNumber\obj\Debug\net6.0\FindMaximumNumber.csproj.CoreCompileInputs.cache
+C:\Users\pk110\source\repos\GenericsDemo\FindMaximumNumber\obj\Debug\net6.0\FindMaximumNumber.dll
+C:\Users\pk110\source\repos\GenericsDemo\FindMaximumNumber\obj\Debug\net6.0\ref\FindMaximumNumber.dll
+C:\Users\pk110\source\repos\GenericsDemo\FindMaximumNumber\obj\Debug\net6.0\FindMaximumNumber.pdb
+C:\Users\pk110\source\repos\GenericsDemo\FindMaximumNumber\obj\Debug\net6.0\FindMaximumNumber.genruntimeconfig.cache
