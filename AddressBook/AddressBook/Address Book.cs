@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -74,28 +74,28 @@ public class Person
     public static List<Person> People = new List<Person>();
 
 
-    public static void AddPerson()
-    {
-        Person person = new Person();
+    //public static void AddPerson()
+    //{
+    //    Person person = new Person();
 
-        Console.Write("Enter First Name: ");
-        person.FirstName = Console.ReadLine();
+    //    Console.Write("Enter First Name: ");
+    //    person.FirstName = Console.ReadLine();
 
-        Console.Write("Enter Last Name: ");
-        person.LastName = Console.ReadLine();
+    //    Console.Write("Enter Last Name: ");
+    //    person.LastName = Console.ReadLine();
 
-        Console.Write("Enter Phone Number: ");
-        person.PhoneNumber = Console.ReadLine();
+    //    Console.Write("Enter Phone Number: ");
+    //    person.PhoneNumber = Console.ReadLine();
 
-        Console.Write("Enter Address 1: ");
-        string[] addresses = new string[2];
-        addresses[0] = Console.ReadLine();
-        Console.Write("Enter Address 2 (Optional): ");
-        addresses[1] = Console.ReadLine();
-        person.Addresses = addresses;
+    //    Console.Write("Enter Address 1: ");
+    //    string[] addresses = new string[2];
+    //    addresses[0] = Console.ReadLine();
+    //    Console.Write("Enter Address 2 (Optional): ");
+    //    addresses[1] = Console.ReadLine();
+    //    person.Addresses = addresses;
 
-        People.Add(person);
-    }
+    //    People.Add(person);
+    //}
     public static void PrintPerson(Person person)
     {
         Console.WriteLine("First Name: " + person.FirstName);
@@ -107,24 +107,24 @@ public class Person
     }
 
 
-    public static void ListPeople()
-    {
-        if (People.Count == 0)
-        {
-            Console.WriteLine("Your address book is empty. Press any key to continue.");
-            Console.ReadKey();
-            return;
-        }
-        Console.WriteLine("Here are the current people in your address book:\n");
-        foreach (var person in People)
-        {
-            PrintPerson(person);
-        }
-        Console.WriteLine("\nPress any key to continue.");
-        Console.ReadKey();
+    //public static void ListPeople()
+    //{
+    //    if (People.Count == 0)
+    //    {
+    //        Console.WriteLine("Your address book is empty. Press any key to continue.");
+    //        Console.ReadKey();
+    //        return;
+    //    }
+    //    Console.WriteLine("Here are the current people in your address book:\n");
+    //    foreach (var person in People)
+    //    {
+    //        PrintPerson(person);
+    //    }
+    //    Console.WriteLine("\nPress any key to continue.");
+    //    Console.ReadKey();
 
         
-    }
+    //}
 
     //public static void RemovePerson()
     //{
