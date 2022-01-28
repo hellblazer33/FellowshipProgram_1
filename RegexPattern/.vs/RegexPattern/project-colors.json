@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "314f7e40-3d60-4e38-99cf-c9aa28a3c128": {
+      "ProjectGuid": "314f7e40-3d60-4e38-99cf-c9aa28a3c128",
+      "DisplayName": "RegexPattern",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
